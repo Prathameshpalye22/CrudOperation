@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "firstname": "Raghu",
+      "lastname": "Chauhan",
+      "birthdate": "2022-11-15",
+      "gender": "m",
+      "education": "10th pass",
+      "company": "Fiserv",
+      "jobExperience": 3.5,
+      "salary": 3,
+      "profile": "Marvel.jpg",
+      "id": 12
+    },
+    {
+      "firstname": "Sameer",
+      "lastname": "Jadhav",
+      "birthdate": "1856-11-24",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Fiserv",
+      "jobExperience": 13,
+      "salary": 25,
+      "id": 13
+    },
+    {
+      "firstname": "Shweta",
+      "lastname": "Yadav",
+      "birthdate": "1999-01-06",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Tata",
+      "jobExperience": 2,
+      "salary": 1.45,
+      "id": 14
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
